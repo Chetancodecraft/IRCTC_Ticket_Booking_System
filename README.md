@@ -1,3 +1,17 @@
-#A Java-based train ticket booking system that allows users to sign up, log in, search for trains, and view bookings. Built using Java, Jackson (for JSON handling), and Maven.
+# IRCTC Ticket Booking System 🚆
 
-# IRCTC_Ticket_Booking_System
+## 📌 Overview
+A simple Java-based train ticket booking system using Spring Boot and JSON-based storage.
+
+## 🛠 Tech Stack
+- Java
+- Jackson (JSON Processing)
+- Maven
+
+## 🚀 How to Run
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/Chetancodecraft/IRCTC_Ticket_Booking_System.git
+   cd IRCTC_Ticket_Booking_System
+
+
