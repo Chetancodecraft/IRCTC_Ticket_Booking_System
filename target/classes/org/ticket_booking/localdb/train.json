@@ -1,0 +1,15 @@
+[
+    {
+      "trainNumber": "12345",
+      "source": "Mumbai",
+      "destination": "Delhi",
+      "seatsAvailable": 50
+    },
+    {
+      "trainNumber": "67890",
+      "source": "Pune",
+      "destination": "Bangalore",
+      "seatsAvailable": 30
+    }
+  ]
+  
